@@ -1,0 +1,4 @@
+Normal sample	Tumor sample 1	Tumor sample 2	
+AB	ABB	B
+AB	AB	B
+AB	BB	AB
